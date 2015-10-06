@@ -9,3 +9,5 @@ Configuration
 
 * Database sqlite
 
+
+stylesheet_link_tag "application",
